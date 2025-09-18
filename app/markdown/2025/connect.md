@@ -9,7 +9,7 @@ Whether you're a networking pro or prefer to keep things casual, CascadiaJS Conn
 
 Join topic-based tables where you can connect with devs who share your interests. These informal discussion groups will be set up around Town Hall with 6-8 BoaF areas sprinkled throughout the space. Look for the 8.5" x 11" signs at each table to find your topic of interest.
 
-### Day 1 BoF Tables:
+### Day 1 BoaF Tables:
 
 **🤖 AI & Web Futures** - Talk about AI tools, LLMs in the browser, AI agents, edge compute, and what's next.
 
